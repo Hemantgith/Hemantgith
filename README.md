@@ -65,7 +65,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemantgith&repo=Neurowell-AI&theme=radical&border_radius=8" alt="Neurowell AI Repo" />
   </a>
   <a href="https://github.com/hemantgith/resumate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemantgith&repo=resumate&theme=radical&border_radius=8" alt="Featured Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemantgith&repo=resumate&theme=radical&border_radius=8" alt="resumate Repo " />
   </a>
 </div>
 
