@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Hemant Kumar</h1>
   <p><strong>Full Stack Developer | AI Enthusiast | Problem Solver</strong></p>
   <p>
-    <a href="https://linkedin.com/in/hemant-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/hemant-kumar-4720a4290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.leetcode.com/hemant_80" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://github.com/hemantgith" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
